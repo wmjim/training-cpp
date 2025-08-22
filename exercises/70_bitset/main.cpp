@@ -3,7 +3,7 @@
 #include <limits>
 #include <string>
 
-// READ: std::bitset <https://zh.cppreference.com/w/cpp/utility/bitset>
+// READ: std::bitset <https://cppreference.cn/w/cpp/utility/bitset>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

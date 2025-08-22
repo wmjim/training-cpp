@@ -5,9 +5,9 @@
 #include <thread>
 #include <vector>
 
-// READ: std::thread <https://zh.cppreference.com/w/cpp/thread/thread>
-// READ: std::mutex <https://zh.cppreference.com/w/cpp/thread/mutex>
-// READ: std::lock_guard <https://zh.cppreference.com/w/cpp/thread/lock_guard>
+// READ: std::thread <https://cppreference.cn/w/cpp/thread/thread>
+// READ: std::mutex <https://cppreference.cn/w/cpp/thread/mutex>
+// READ: std::lock_guard <https://cppreference.cn/w/cpp/thread/lock_guard>
 // READ: 并发编程系列 <https://lb3fn675fh.feishu.cn/wiki/MCsLwI7OtiXk9JkFGZJcNXbrn1g>
 // READ: 并发编程指南 <https://www.cnblogs.com/haippy/p/3284540.html>
 

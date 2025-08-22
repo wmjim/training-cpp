@@ -3,8 +3,8 @@
 #include <thread>
 #include <vector>
 
-// READ: std::scoped_lock <https://zh.cppreference.com/w/cpp/thread/scoped_lock>
-// READ: RAII <https://zh.cppreference.com/w/cpp/language/raii>
+// READ: std::scoped_lock <https://cppreference.cn/w/cpp/thread/scoped_lock>
+// READ: RAII <https://cppreference.cn/w/cpp/language/raii>
 
 int shared_counter = 0;
 std::mutex mtx1;

@@ -3,11 +3,11 @@
 #include <string>
 #include <vector>
 
-// READ: C++ 强制类型转换 <https://zh.cppreference.com/w/cpp/language/explicit_cast>
-// READ: static_cast <https://zh.cppreference.com/w/cpp/language/static_cast>
-// READ: dynamic_cast <https://zh.cppreference.com/w/cpp/language/dynamic_cast>
-// READ: const_cast <https://zh.cppreference.com/w/cpp/language/const_cast>
-// READ: reinterpret_cast <https://zh.cppreference.com/w/cpp/language/reinterpret_cast>
+// READ: C++ 强制类型转换 <https://cppreference.cn/w/cpp/language/explicit_cast>
+// READ: static_cast <https://cppreference.cn/w/cpp/language/static_cast>
+// READ: dynamic_cast <https://cppreference.cn/w/cpp/language/dynamic_cast>
+// READ: const_cast <https://cppreference.cn/w/cpp/language/const_cast>
+// READ: reinterpret_cast <https://cppreference.cn/w/cpp/language/reinterpret_cast>
 
 // 定义用于 dynamic_cast 的基类和派生类
 struct Base {

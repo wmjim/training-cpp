@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-// READ: C++20 Ranges <https://zh.cppreference.com/w/cpp/ranges>
+// READ: C++20 Ranges <https://cppreference.cn/w/cpp/ranges>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

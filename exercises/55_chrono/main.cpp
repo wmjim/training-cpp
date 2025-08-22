@@ -3,7 +3,7 @@
 #include <iostream>
 #include <thread>
 
-// READ: std::chrono <https://zh.cppreference.com/w/cpp/chrono>
+// READ: std::chrono <https://cppreference.cn/w/cpp/chrono>
 // READ: chrono 的设计哲学 <https://lb3fn675fh.feishu.cn/wiki/HtWswvWLiiXipkkQPCRcuiWjnkg>
 
 // TODO: 将下列 `?` 替换为正确的代码

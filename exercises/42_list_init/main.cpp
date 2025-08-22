@@ -3,7 +3,7 @@
 #include <string>
 #include <initializer_list>
 
-// READ: 列表初始化 (list initialization) <https://zh.cppreference.com/w/cpp/language/list_initialization>
+// READ: 列表初始化 (list initialization) <https://cppreference.cn/w/cpp/language/list_initialization>
 // THINK:
 // 1. 列表初始化有什么优势？
 // 2. 什么情况下列表初始化会失败？

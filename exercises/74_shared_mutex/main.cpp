@@ -5,9 +5,9 @@
 #include <thread>
 #include <vector>
 
-// READ: std::shared_mutex <https://zh.cppreference.com/w/cpp/thread/shared_mutex>
-// READ: std::shared_lock <https://zh.cppreference.com/w/cpp/thread/shared_lock>
-// READ: std::unique_lock <https://zh.cppreference.com/w/cpp/thread/unique_lock>
+// READ: std::shared_mutex <https://cppreference.cn/w/cpp/thread/shared_mutex>
+// READ: std::shared_lock <https://cppreference.cn/w/cpp/thread/shared_lock>
+// READ: std::unique_lock <https://cppreference.cn/w/cpp/thread/unique_lock>
 
 class ThreadSafeCounter {
 public:

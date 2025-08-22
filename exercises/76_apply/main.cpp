@@ -3,7 +3,7 @@
 #include <iostream>
 #include <tuple>
 
-// READ: std::apply (C++17) <https://zh.cppreference.com/w/cpp/utility/apply>
+// READ: std::apply (C++17) <https://cppreference.cn/w/cpp/utility/apply>
 
 // 一个接受多个参数的函数
 int sum(int a, int b, int c) {

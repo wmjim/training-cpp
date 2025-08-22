@@ -2,8 +2,8 @@
 #include <memory>
 #include <string>
 
-// READ: `std::unique_ptr` <https://zh.cppreference.com/w/cpp/memory/unique_ptr>
-// READ: `std::make_unique` <https://zh.cppreference.com/w/cpp/memory/unique_ptr/make_unique>
+// READ: `std::unique_ptr` <https://cppreference.cn/w/cpp/memory/unique_ptr>
+// READ: `std::make_unique` <https://cppreference.cn/w/cpp/memory/unique_ptr/make_unique>
 
 struct Resource {
     std::string data;

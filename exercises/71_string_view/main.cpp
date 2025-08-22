@@ -2,7 +2,7 @@
 #include <string>
 #include <string_view>
 
-// READ: std::string_view <https://zh.cppreference.com/w/cpp/string/basic_string_view>
+// READ: std::string_view <https://cppreference.cn/w/cpp/string/basic_string_view>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

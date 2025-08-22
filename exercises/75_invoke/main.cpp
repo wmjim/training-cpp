@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 
-// READ: std::invoke <https://zh.cppreference.com/w/cpp/utility/functional/invoke>
+// READ: std::invoke <https://cppreference.cn/w/cpp/utility/functional/invoke>
 
 
 // 一个普通的函数

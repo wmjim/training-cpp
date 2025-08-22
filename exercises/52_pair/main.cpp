@@ -3,7 +3,7 @@
 #include <string>
 #include <utility>
 
-// READ: std::pair <https://zh.cppreference.com/w/cpp/utility/pair>
+// READ: std::pair <https://cppreference.cn/w/cpp/utility/pair>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

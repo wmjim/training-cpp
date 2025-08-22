@@ -2,7 +2,7 @@
 #include <iostream>
 #include <sstream>
 
-// READ: 运算符重载 <https://zh.cppreference.com/w/cpp/language/operators>
+// READ: 运算符重载 <https://cppreference.cn/w/cpp/language/operators>
 
 // 定义一个简单的二维向量结构体
 struct Vector2D {

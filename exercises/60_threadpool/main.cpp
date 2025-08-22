@@ -11,11 +11,11 @@
 #include <vector>
 
 // READ: 线程池的基本概念和实现
-// READ: std::thread <https://zh.cppreference.com/w/cpp/thread/thread>
-// READ: std::mutex <https://zh.cppreference.com/w/cpp/thread/mutex>
-// READ: std::condition_variable <https://zh.cppreference.com/w/cpp/thread/condition_variable>
-// READ: std::future <https://zh.cppreference.com/w/cpp/thread/future>
-// READ: std::packaged_task <https://zh.cppreference.com/w/cpp/thread/packaged_task>
+// READ: std::thread <https://cppreference.cn/w/cpp/thread/thread>
+// READ: std::mutex <https://cppreference.cn/w/cpp/thread/mutex>
+// READ: std::condition_variable <https://cppreference.cn/w/cpp/thread/condition_variable>
+// READ: std::future <https://cppreference.cn/w/cpp/thread/future>
+// READ: std::packaged_task <https://cppreference.cn/w/cpp/thread/packaged_task>
 
 
 // TODO: 实现一个简化的线程池

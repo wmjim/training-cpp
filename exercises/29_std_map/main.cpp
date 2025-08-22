@@ -2,8 +2,8 @@
 #include <map>
 #include <unordered_map>
 
-// READ: `std::map` <https://zh.cppreference.com/w/cpp/container/map>
-// READ: `std::unordered_map` <https://zh.cppreference.com/w/cpp/container/unordered_map>
+// READ: `std::map` <https://cppreference.cn/w/cpp/container/map>
+// READ: `std::unordered_map` <https://cppreference.cn/w/cpp/container/unordered_map>
 
 template<class k, class v>
 bool key_exists(std::map<k, v> const &map, k const &key) {
@@ -15,7 +15,7 @@ void set(std::map<k, v> &map, k key, v value) {
     // TODO: 实现函数
 }
 
-// READ: `std::unordered_map` <https://zh.cppreference.com/w/cpp/container/unordered_map>
+// READ: `std::unordered_map` <https://cppreference.cn/w/cpp/container/unordered_map>
 // `std::unordered_map` 是哈希表，平均情况下查找、插入和删除的时间复杂度为 O(1)，但最坏情况下为 O(n)。
 // 元素无序。
 

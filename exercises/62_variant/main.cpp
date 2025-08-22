@@ -2,7 +2,7 @@
 #include <string>
 #include <variant>
 
-// READ: std::variant <https://zh.cppreference.com/w/cpp/utility/variant>
+// READ: std::variant <https://cppreference.cn/w/cpp/utility/variant>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

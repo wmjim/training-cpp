@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-// READ: 奇异递归模板模式 (CRTP) <https://zh.cppreference.com/w/cpp/language/crtp>
+// READ: 奇异递归模板模式 (CRTP) <https://cppreference.cn/w/cpp/language/crtp>
 
 // 定义一个基类模板，使用 CRTP
 template<typename Derived>

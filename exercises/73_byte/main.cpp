@@ -2,7 +2,7 @@
 #include <cstddef>
 #include <iostream>
 
-// READ: std::byte <https://zh.cppreference.com/w/cpp/types/byte>
+// READ: std::byte <https://cppreference.cn/w/cpp/types/byte>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

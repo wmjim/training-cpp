@@ -6,9 +6,9 @@
 #include <thread>
 #include <vector>
 
-// READ: std::future <https://zh.cppreference.com/w/cpp/thread/future>
-// READ: std::promise <https://zh.cppreference.com/w/cpp/thread/promise>
-// READ: std::packaged_task <https://zh.cppreference.com/w/cpp/thread/packaged_task>
+// READ: std::future <https://cppreference.cn/w/cpp/thread/future>
+// READ: std::promise <https://cppreference.cn/w/cpp/thread/promise>
+// READ: std::packaged_task <https://cppreference.cn/w/cpp/thread/packaged_task>
 
 // TODO: 将下列 `?` 替换为正确的代码
 
@@ -31,7 +31,7 @@ int main(int argc, char **argv) {
     std::vector<int> data = {1, 2, 3, 4, 5};
 
     // 1. 使用 std::async 启动异步任务
-    // READ: std::async <https://zh.cppreference.com/w/cpp/thread/async>
+    // READ: std::async <https://cppreference.cn/w/cpp/thread/async>
     std::future<int> sum_future = std::async(std::launch::async, calculate_sum, data);
     // 等待结果并获取
     int sum_result = sum_future.get();

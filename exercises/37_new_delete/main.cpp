@@ -1,7 +1,7 @@
 #include "../exercise.h"
 #include <iostream>
 
-// READ: new/delete <https://zh.cppreference.com/w/cpp/memory/new/operator_new>
+// READ: new/delete <https://cppreference.cn/w/cpp/memory/new/operator_new>
 // READ: 配对使用 <https://lb3fn675fh.feishu.cn/wiki/VUp6wCMGyikdiDkDM51cKPQenAg>
 
 int main(int argc, char **argv) {

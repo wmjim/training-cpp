@@ -2,7 +2,7 @@
 #include <stack>
 #include <string>
 
-// READ: std::stack <https://zh.cppreference.com/w/cpp/container/stack>
+// READ: std::stack <https://cppreference.cn/w/cpp/container/stack>
 
 // TODO: 实现一个 std::stack 类模板，支持以下操作：
 // - push: 将元素压入栈顶

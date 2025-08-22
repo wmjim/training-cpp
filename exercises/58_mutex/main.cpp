@@ -5,10 +5,10 @@
 #include <thread>
 #include <vector>
 
-// READ: std::mutex <https://zh.cppreference.com/w/cpp/thread/mutex>
-// READ: std::lock_guard <https://zh.cppreference.com/w/cpp/thread/lock_guard>
-// READ: std::unique_lock <https://zh.cppreference.com/w/cpp/thread/unique_lock>
-// READ: std::recursive_mutex <https://zh.cppreference.com/w/cpp/thread/recursive_mutex>
+// READ: std::mutex <https://cppreference.cn/w/cpp/thread/mutex>
+// READ: std::lock_guard <https://cppreference.cn/w/cpp/thread/lock_guard>
+// READ: std::unique_lock <https://cppreference.cn/w/cpp/thread/unique_lock>
+// READ: std::recursive_mutex <https://cppreference.cn/w/cpp/thread/recursive_mutex>
 
 // 全局共享资源
 int shared_counter = 0;

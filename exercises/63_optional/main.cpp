@@ -2,7 +2,7 @@
 #include <optional>
 #include <string>
 
-// READ: std::optional <https://zh.cppreference.com/w/cpp/utility/optional>
+// READ: std::optional <https://cppreference.cn/w/cpp/utility/optional>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

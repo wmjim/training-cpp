@@ -4,7 +4,7 @@
 #include <tuple>
 #include <vector>
 
-// READ: 结构化绑定 <https://zh.cppreference.com/w/cpp/language/structured_binding>
+// READ: 结构化绑定 <https://cppreference.cn/w/cpp/language/structured_binding>
 
 struct MyStruct {
     int id;

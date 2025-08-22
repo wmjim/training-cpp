@@ -2,7 +2,7 @@
 #include <deque>
 #include <iostream>
 
-// READ: std::deque <https://zh.cppreference.com/w/cpp/container/deque>
+// READ: std::deque <https://cppreference.cn/w/cpp/container/deque>
 // READ: deque原理 <https://lb3fn675fh.feishu.cn/wiki/Hn66w7lDciYWLRkJIYfcuTQ5ncg>
 
 int main(int argc, char **argv) {

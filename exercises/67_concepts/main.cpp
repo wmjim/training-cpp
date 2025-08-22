@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 
-// READ: Concepts <https://zh.cppreference.com/w/cpp/language/constraints>
+// READ: Concepts <https://cppreference.cn/w/cpp/language/constraints>
 
 // TODO: 定义一个 Concept `Addable`，要求类型 T 支持 `+` 运算符
 template<typename T>

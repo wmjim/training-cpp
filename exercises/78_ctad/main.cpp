@@ -5,7 +5,7 @@
 #include <utility>
 #include <vector>
 
-// READ: Class Template Argument Deduction (CTAD) (C++17) <https://zh.cppreference.com/w/cpp/language/class_template_argument_deduction>
+// READ: Class Template Argument Deduction (CTAD) (C++17) <https://cppreference.cn/w/cpp/language/class_template_argument_deduction>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

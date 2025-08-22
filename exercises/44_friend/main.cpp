@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 
-// READ: 友元声明 <https://zh.cppreference.com/w/cpp/language/friend>
+// READ: 友元声明 <https://cppreference.cn/w/cpp/language/friend>
 
 class A {
 private:

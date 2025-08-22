@@ -4,7 +4,7 @@
 #include <tuple>
 #include <vector>
 
-// READ: std::tuple <https://zh.cppreference.com/w/cpp/utility/tuple>
+// READ: std::tuple <https://cppreference.cn/w/cpp/utility/tuple>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

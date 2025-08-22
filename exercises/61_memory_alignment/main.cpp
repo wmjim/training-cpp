@@ -2,9 +2,9 @@
 #include <cstddef>
 #include <iostream>
 
-// READ: 内存对齐 <https://zh.cppreference.com/w/cpp/language/object#Alignment>
-// READ: sizeof 运算符 <https://zh.cppreference.com/w/cpp/language/sizeof>
-// READ: alignof 运算符 <https://zh.cppreference.com/w/cpp/language/alignof>
+// READ: 内存对齐 <https://cppreference.cn/w/cpp/language/object#Alignment>
+// READ: sizeof 运算符 <https://cppreference.cn/w/cpp/language/sizeof>
+// READ: alignof 运算符 <https://cppreference.cn/w/cpp/language/alignof>
 
 struct SimpleStruct {
     char a;// 1 字节
@@ -63,7 +63,7 @@ int main(int argc, char **argv) {
     ASSERT(alignof(CustomAlignedStruct) == ?, "CustomAlignedStruct 的对齐要求 (由 alignas 指定)");
 
     // ---- 成员偏移量 offsetof ----
-    // READ: offsetof <https://zh.cppreference.com/w/cpp/types/offsetof>
+    // READ: offsetof <https://cppreference.cn/w/cpp/types/offsetof>
     ASSERT(offsetof(SimpleStruct, a) == ?, "SimpleStruct::a 的偏移量");
     ASSERT(offsetof(SimpleStruct, b) == ?, "SimpleStruct::b 的偏移量 (考虑 a 后面的填充)");
     ASSERT(offsetof(SimpleStruct, c) == ?, "SimpleStruct::c 的偏移量 (考虑 b 后面的填充)");

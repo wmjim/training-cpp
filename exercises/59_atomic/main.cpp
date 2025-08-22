@@ -5,8 +5,8 @@
 #include <thread>
 #include <vector>
 
-// READ: std::atomic <https://zh.cppreference.com/w/cpp/atomic/atomic>
-// READ: std::memory_order <https://zh.cppreference.com/w/cpp/atomic/memory_order>
+// READ: std::atomic <https://cppreference.cn/w/cpp/atomic/atomic>
+// READ: std::memory_order <https://cppreference.cn/w/cpp/atomic/memory_order>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {
@@ -76,7 +76,7 @@ int main(int argc, char **argv) {
     ASSERT(counter.load() == ?, "Both threads should have incremented the counter");
 
     // 3. std::atomic_flag (最简单的原子类型，通常用于实现自旋锁)
-    // READ: std::atomic_flag <https://zh.cppreference.com/w/cpp/atomic/atomic_flag>
+    // READ: std::atomic_flag <https://cppreference.cn/w/cpp/atomic/atomic_flag>
     std::atomic_flag lock_flag = ATOMIC_FLAG_INIT;// 初始化为 clear (false) 状态
 
     // test_and_set: 原子地将标志设置为 true 并返回先前的值

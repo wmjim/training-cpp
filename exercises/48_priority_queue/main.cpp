@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-// READ: std::priority_queue <https://zh.cppreference.com/w/cpp/container/priority_queue>
+// READ: std::priority_queue <https://cppreference.cn/w/cpp/container/priority_queue>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

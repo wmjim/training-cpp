@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 
-// READ: std::any <https://zh.cppreference.com/w/cpp/utility/any>
+// READ: std::any <https://cppreference.cn/w/cpp/utility/any>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

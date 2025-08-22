@@ -4,8 +4,8 @@
 #include <unordered_set>
 #include <vector>
 
-// READ: std::set <https://zh.cppreference.com/w/cpp/container/set>
-// READ: std::unordered_set <https://zh.cppreference.com/w/cpp/container/unordered_set>
+// READ: std::set <https://cppreference.cn/w/cpp/container/set>
+// READ: std::unordered_set <https://cppreference.cn/w/cpp/container/unordered_set>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

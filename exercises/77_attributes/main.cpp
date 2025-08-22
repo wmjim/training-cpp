@@ -3,10 +3,10 @@
 #include <string>
 #include <vector>
 
-// READ: Attributes (C++11 and later) <https://zh.cppreference.com/w/cpp/language/attributes>
-// READ: [[nodiscard]] (C++17) <https://zh.cppreference.com/w/cpp/language/attributes/nodiscard>
-// READ: [[deprecated]] (C++14) <https://zh.cppreference.com/w/cpp/language/attributes/deprecated>
-// READ: [[maybe_unused]] (C++17) <https://zh.cppreference.com/w/cpp/language/attributes/maybe_unused>
+// READ: Attributes (C++11 and later) <https://cppreference.cn/w/cpp/language/attributes>
+// READ: [[nodiscard]] (C++17) <https://cppreference.cn/w/cpp/language/attributes/nodiscard>
+// READ: [[deprecated]] (C++14) <https://cppreference.cn/w/cpp/language/attributes/deprecated>
+// READ: [[maybe_unused]] (C++17) <https://cppreference.cn/w/cpp/language/attributes/maybe_unused>
 
 // 使用 [[nodiscard]] 属性标记函数，提示调用者不应忽略返回值
 [[nodiscard]]

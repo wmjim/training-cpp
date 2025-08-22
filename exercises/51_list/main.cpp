@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 
-// READ: std::list <https://zh.cppreference.com/w/cpp/container/list>
+// READ: std::list <https://cppreference.cn/w/cpp/container/list>
 
 // TODO: 将下列 `?` 替换为正确的代码
 int main(int argc, char **argv) {

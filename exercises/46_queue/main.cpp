@@ -2,7 +2,7 @@
 #include <queue>
 #include <string>
 
-// READ: std::queue <https://zh.cppreference.com/w/cpp/container/queue>
+// READ: std::queue <https://cppreference.cn/w/cpp/container/queue>
 
 // TODO：自己实现一个队列类
 // TIPS:
